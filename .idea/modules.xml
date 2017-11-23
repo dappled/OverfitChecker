@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../OneDrive/dappled's sky/accreative/DEX/Sources/Public/Protocol/Dex/.idea/Dex.iml" filepath="$PROJECT_DIR$/../../OneDrive/dappled's sky/accreative/DEX/Sources/Public/Protocol/Dex/.idea/Dex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../FlowTradeResultAnalyzer/.idea/FlowTradeResultAnalyzer.iml" filepath="$PROJECT_DIR$/../FlowTradeResultAnalyzer/.idea/FlowTradeResultAnalyzer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../LearnPython/.idea/LearnPython.iml" filepath="$PROJECT_DIR$/../LearnPython/.idea/LearnPython.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/OverfitChecker.iml" filepath="$PROJECT_DIR$/.idea/OverfitChecker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../OneDrive/dappled's sky/accreative/DEX/Sources/Public/Protocol/Dex/Protocolpy/.idea/Protocolpy.iml" filepath="$PROJECT_DIR$/../../OneDrive/dappled's sky/accreative/DEX/Sources/Public/Protocol/Dex/Protocolpy/.idea/Protocolpy.iml" />
+    </modules>
+  </component>
+</project>
